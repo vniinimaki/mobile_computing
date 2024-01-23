@@ -94,9 +94,9 @@ fun ConversationScreen(messages: List<Message>, onNavigateToBack: () -> Unit){
     }
     Button(
         onClick = onNavigateToBack,
-        modifier = Modifier.offset(290.dp)
+        modifier = Modifier.offset(250.dp)
     ) {
-        Text("Go back")
+        Text("Go to back screen")
     }
 }
 @Preview
