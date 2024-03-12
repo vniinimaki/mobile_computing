@@ -1,0 +1,2 @@
+I implemented a splash screen using this tutorial https://youtu.be/eFZmMSm1G1c?si=DGvpM2dCXNP_UHBH
+I implemented an api call to this liukastumisvaroitus api. https://sva-konsultointi.github.io/liukastumisvaroitus-api-doc/ Call result is added as a text of the button and is the city of response with id of 1.
